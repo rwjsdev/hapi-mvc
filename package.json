@@ -1,0 +1,24 @@
+{
+  "name": "hapi-mvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rwjsdev/hapi-mvc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rwjsdev/hapi-mvc/issues"
+  },
+  "homepage": "https://github.com/rwjsdev/hapi-mvc#readme",
+  "dependencies": {
+    "hapi": "^15.1.1",
+    "mysql": "^2.11.1"
+  }
+}
